@@ -1,5 +1,7 @@
 # Practical-Data-Science-on-the-AWS-Cloud
-Coursera Kursu : Amazon SageMaker kullanarak veri bilimi projelerini buluta taşıma ve ölçeklendirme
+## Coursera Kursu : Amazon SageMaker kullanarak veri bilimi projelerini buluta taşıma ve ölçeklendirme
+
+![image](https://github.com/aleynadikall/Practical-Data-Science-on-the-AWS-Cloud/assets/79109512/2a6a5678-32ce-440c-b09f-62c088fc2065)
 
 Veri bilimi, iş ve alan bilgisini matematik, istatistik, veri görselleştirme ve programlama becerileriyle birleştiren disiplinler arası bir alandır. Veri setlerini çeşitli görselleştirmelerle keşfetme veya makine öğrenimi modeli oluşturma gibi veri bilimiyle ilgili bazı konuların yanı sıra veri bilimi projelerini buluta taşımayı nasıl öğrenileceğine dair konular ele alınmıştır. Bulut tabanlı makine öğrenimi araçları ve teknikleriyle pratik deneyim kazanılacaktır. Bu reporistory, binlerce modelin milyonlarca son kullanıcıya hizmet verdiği bir veri bilimi projesinin her bileşeninin oluşturulması ve dağıtılması öğretilmesine yöneliktir. Bulutta veri bilimi projeleri çalıştırmanın en büyük avantajlarından biri, ölçeklenebilirlik ve esneklik sunmasıdır, bu sayede neredeyse her miktarda veri işlenebilmektedir. Bu repositoryde, veri kümesini analiz etme, veri temizleme, ilgili özellikleri çıkarma, modelleri eğitme ve veri bilimi projelerini yönetmek ve ölçeklendirmek için otomatikleştirilmiş veri akışları oluşturma konusunda bilgiler sağlar. 
 
